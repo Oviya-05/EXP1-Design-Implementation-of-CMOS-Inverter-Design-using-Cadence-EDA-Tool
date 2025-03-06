@@ -1,9 +1,12 @@
-Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
+Ex No: 01    
+Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
 
 Aim:
+
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
 
 Tools Required:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
 
@@ -13,7 +16,8 @@ S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIM
 2.	Type the following commands as follows and press enter.
 •	csh
 •	source /cadence/install/cshrc
-•	virtuoso 
+•	virtuoso
+
 Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
