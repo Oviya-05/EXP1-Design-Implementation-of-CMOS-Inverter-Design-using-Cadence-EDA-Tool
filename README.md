@@ -93,23 +93,17 @@ Analog simulation by SPECTRE.
  ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
 
 For Transient Analysis Settings and Output
+
+![WhatsApp Image 2025-03-06 at 9 44 54 AM](https://github.com/user-attachments/assets/03559139-4352-446c-bc04-967b706b1e5d)
+
+![WhatsApp Image 2025-03-06 at 9 44 56 AM](https://github.com/user-attachments/assets/917d6365-a959-465a-b6c3-a9c385e8a050)
  
- 
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+For DC Analysis Settings and Output
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+![WhatsApp Image 2025-03-06 at 9 44 58 AM](https://github.com/user-attachments/assets/30413b67-80c0-4475-8d7e-299691fe5b1f)
 
- For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![WhatsApp Image 2025-03-06 at 9 44 58 AM (1)](https://github.com/user-attachments/assets/4d2f409d-7932-4910-a84a-d93bf767e4b8)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
-
- 
-
-
-
-
- 
 
 Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
