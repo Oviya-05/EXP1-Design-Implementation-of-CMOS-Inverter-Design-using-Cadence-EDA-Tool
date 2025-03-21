@@ -1,11 +1,11 @@
 Ex No: 01    
 Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
 
-Aim:
+**Aim:**
 
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
 
-Tools Required:
+**Tools Required:**
 
 •	Personal Computer
 •	Cadence Virtuoso Software
@@ -58,7 +58,9 @@ ii)	Create Schematic Cell view.
 iii)	Creating the Symbol for schematic Cell view
 
 •	In the schematic window, execute 
+
 	Create – Cell view – From Cell view
+
 	The cell view from cell view window appears
 	Check Lib Name, Cell Name, From View name must be schematic Press ok
 •	Now Symbol generation form appears. Click Ok If No changes required
