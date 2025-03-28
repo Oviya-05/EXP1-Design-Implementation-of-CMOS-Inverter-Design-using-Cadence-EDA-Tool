@@ -24,11 +24,12 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 1.	Now two windows must open
    
       i) virtuoso/command interpreter window
+  	
      	ii)Whats New…
    
-2.	Close the 2nd window
+3.	Close the 2nd window
 
-3.	Use 1st window i.e virtuoso window (CIW) for further processing.
+4.	Use 1st window i.e virtuoso window (CIW) for further processing.
 
       i.	Create a New Library
       
@@ -54,9 +55,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 **ii)	Create Schematic Cell view.**
    
       •	Go to 1st window i.e virtuoso (CIW)
-      
       •	File-New-Cell view
-      
       •	Setup the new file form
       
       *	Library: Select the one you created.
