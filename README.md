@@ -24,7 +24,6 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 1.	Now two windows must open
    
       i) virtuoso/command interpreter window
-      
      	ii)Whats New…
    
 2.	Close the 2nd window
