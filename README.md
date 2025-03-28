@@ -54,13 +54,13 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 
 **ii)	Create Schematic Cell view.**
    
-      •	Go to 1st window i.e virtuoso (CIW)
-      •	File-New-Cell view
-      •	Setup the new file form
+      *  Go to 1st window i.e virtuoso (CIW)
+      *	File-New-Cell view
+      *	Setup the new file form
       *	Library: Select the one you created
       *	Cell: Give the experiment name Ex: Inverter ViewSchematic
       *	Type: Schematic press OK
-      •	Add the required components from the libraries and make the connections.
+      *	Add the required components from the libraries and make the connections.
       *  Go to instance fixed menu or use shortcut key “I” from the keypad to go instances
       *  Click on browse. This opens the library browser
       *  Now select the appropriate library for components like
