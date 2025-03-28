@@ -20,7 +20,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 
    
 
-**Procedure for Schematic simulation using Cadence**
+# Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open
    
@@ -53,7 +53,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
       
       •	Attach the library to the technology library gpdk045.Click OK
 
-**ii)	Create Schematic Cell view.**
+# ii)	Create Schematic Cell view.
    
       •	Go to 1st window i.e virtuoso (CIW)
       
@@ -88,7 +88,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 
 
  
-**iii)	Creating the Symbol for schematic Cell view**
+# iii)	Creating the Symbol for schematic Cell view
       
       •	In the schematic window, execute 
       
