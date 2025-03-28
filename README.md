@@ -87,7 +87,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 
 
  
-** iii)	Creating the Symbol for schematic Cell view **
+**iii)	Creating the Symbol for schematic Cell view**
       
       •	In the schematic window, execute 
       
@@ -153,6 +153,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
    *	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
      
    *	Execute Simulation -- Net list and Run
+   *	
  ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
 
 **For Transient Analysis Settings and Output**
@@ -170,9 +171,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 **Results:**
 
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
-
-2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
-	
+2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.	
 3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
 
 
