@@ -57,19 +57,17 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
       •	Go to 1st window i.e virtuoso (CIW)
       •	File-New-Cell view
       •	Setup the new file form
-      
-      *	Library: Select the one you created.
-      
+      *	Library: Select the one you created
       *	Cell: Give the experiment name Ex: Inverter ViewSchematic
       *	Type: Schematic press OK
       •	Add the required components from the libraries and make the connections.
-      *Go to instance fixed menu or use shortcut key “I” from the keypad to go instances
-      *Click on browse. This opens the library browser
-      *Now select the appropriate library for components like
-      *Gpdk45 ------------------------nmos1v, pmos1v
-      *Create Input and Output pins
-      *Make the connections by using fixed narrow wire key
-      *Click Check and Save button
+      * Go to instance fixed menu or use shortcut key “I” from the keypad to go instances
+      * Click on browse. This opens the library browser
+      * Now select the appropriate library for components like
+      * Gpdk45 ------------------------nmos1v, pmos1v
+      * Create Input and Output pins
+      * Make the connections by using fixed narrow wire key
+      * Click Check and Save button
 
 ![WhatsApp Image 2025-03-06 at 9 44 58 AM](https://github.com/user-attachments/assets/30413b67-80c0-4475-8d7e-299691fe5b1f)
 
