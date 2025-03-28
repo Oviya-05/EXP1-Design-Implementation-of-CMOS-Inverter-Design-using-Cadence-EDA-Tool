@@ -97,10 +97,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
       •	Check for the position of pin side.Prss OK
       
       •	Edit for the shape by Create-Shape-Choose required options to edit.
-      
-
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
-
+ 
 
 **iv)	Creating the new test cell view**
 
@@ -117,8 +114,6 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
       * 	Type: Schematic press OK
       
       *	Follow the step 3(ii) d to make the required connections
-   
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
 
 
  **Analog simulation by SPECTRE**
